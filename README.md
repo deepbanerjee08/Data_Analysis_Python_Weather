@@ -3,7 +3,7 @@ In a Jupyter Notebook, analyzing weather data typically involves collecting, pro
 Basic Steps for Weather Data Analysis in Jupyter Notebook:
 Data Collection:
 
-Weather data can be sourced from public APIs (e.g., OpenWeatherMap, Weatherstack), CSV files, or databases.
+Weather data can be sourced from public APIs (e.g. Weatherstack), CSV files, or databases.
 Typically, data includes fields like temperature, humidity, pressure, wind speed, precipitation, and date/time stamps.
 Data Cleaning:
 
